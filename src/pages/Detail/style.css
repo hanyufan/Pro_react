@@ -1,0 +1,48 @@
+body {
+	background: #fff
+}
+.detail {
+	width: 850px;
+	background: #fff;
+}
+.detail .top {
+	height: 72px;
+	background: #fff;
+}
+.detail .top .title {
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	color: #007dc6;
+}
+.detail .top .alt {
+	width: 400px;
+	margin: 0 auto;
+	height: 20px;
+	display: flex;
+	justify-content: space-between;
+	color: #007dc6;
+}
+.detail .top .alt div{
+	float: left;
+}
+.detail .canvas {
+	float: left;
+}
+.detail .box-music {
+	background: #fff;
+	height: 32px;
+	overflow: hidden;
+}
+.detail .music {
+	height: 63px;
+	width: 300px;
+	background: yellow;
+	display: block;
+	float: left;
+	background: #fff;
+}
+
+
+
+

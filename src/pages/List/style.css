@@ -1,0 +1,118 @@
+.list-content {
+	background: #fff;
+}
+.list-content .list-img {
+	width: 1024px;
+	height: 133px;
+	display: flex;
+	justify-content: space-between;
+	background: #fff;
+	margin-top: 2px;
+}
+.list-content .list-img .img-left img {
+	height: 133px;
+	width: 389px;
+}
+.list-content .list-img .img-right img {
+	height: 124px;
+	width: 483px;
+}
+.list-content .study {
+	height: 45px;
+	border: 1px solid #000
+}
+.list-content .study li{
+	float: left;
+	border-right: 1px solid #000;
+}
+.list-content .study li a {
+	display: block;
+	line-height: 45px;
+	font-size: 20px;
+	text-align: center;
+	padding: 0 20px;
+	color: red;
+	text-decoration: none;
+}
+.list-content .study .first_li {
+	width: 120px;
+	height: 45px;
+}
+.list-content .speak_Enlish {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 20px;
+}
+.list-content .speak_Enlish .English_left {
+	width: 666px;
+	border: 3px solid red;
+	border-radius: 20px;
+	margin-left: 10px;
+	padding-bottom: 10px;
+}
+.list-content .speak_Enlish .English_left .speak {
+	margin-top: -20px;
+	margin-left: 20px
+}
+.list-content .speak_Enlish .English_left .talk .book {
+	margin-left: 38px;
+	margin-top: 15px;
+}
+.list-content .speak_Enlish .English_left .try {
+	font-size: 20px;
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 1px dotted #ccc;
+	color: #000;
+	margin-left: 38px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+.list-content .speak_Enlish .English_left .left_list{
+	padding-left: 38px;
+	position: relative;
+}
+.list-content .speak_Enlish .English_left .left_list a {
+	color: #004190;
+}
+.list-content .speak_Enlish .English_left .left_list :hover {
+	text-decoration: underline;
+}
+.list-content .speak_Enlish .English_left .left_list ::before {
+	position: absolute;
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 3px solid red;
+	border-radius: 50%;
+	top: 8px;
+	left: 22px;
+}
+.list-content .speak_Enlish .English_right {
+	width: 306px;
+	border: 3px solid red;
+	border-radius: 20px;
+	margin-right: 10px;
+	color: #000;
+}
+.list-content .speak_Enlish .English_right .magazine_show {
+	color: green;
+	font-size: 16px;
+	margin: 10px;
+}
+.list-content .speak_Enlish .English_right .book {
+	display: block;
+	margin: 0 auto;
+}
+.list-content .speak_Enlish .English_right .content{
+	font-size: 16px;
+	margin: 5px 10px;
+}
+.list-content .speak_Enlish .English_right .content:nth-child(4) {
+	color: red;
+}
+.list-content .speak_Enlish .English_right .content span {
+	color: red;
+}
+

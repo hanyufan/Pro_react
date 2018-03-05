@@ -1,0 +1,18 @@
+.common .top {
+	width: 100%
+}
+.common-logo {
+	display: block;
+	height: 60px;
+	margin: 0 auto;
+}
+.common .ant-row {
+	padding: 10px 0;
+	background: #fff;
+}
+.common .ant-menu-item {
+	line-height: 28px;
+}
+.common .ant-col-6 {
+	background: #fff;
+}

@@ -1,0 +1,7 @@
+#root {
+	background:#EDF8FC url("../statics/imgs/background.jpg") no-repeat;
+}
+.main {
+	width: 1024px;
+	margin: 0 auto;
+}

@@ -1,0 +1,22 @@
+.footer .one {
+	margin: 0 auto;
+	width: 370px;
+	color: #000;
+}
+.footer .one span {
+	color: orange
+}
+.footer .one span:nth-child(1) {
+	font-weight: bold;
+}
+.footer .two {
+	width: 700px;
+	margin: 0 auto;
+	color: #000;
+	margin-top: 15px;
+}
+.footer .three {
+	display: block;
+	margin: 0 auto;
+	margin-top: 15px;
+}
